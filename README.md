@@ -99,6 +99,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - aliirtiza859@gmail.com
 
-Project Link: [https://github.com/yourusername/focusflow](https://github.com/yourusername/focusflow)
+Project Link: [https://github.com/Iamirtizaali/focusflow](https://github.com/yourusername/focusflow)
